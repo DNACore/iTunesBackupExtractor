@@ -8,5 +8,5 @@ target 'iTunesBackupExtractor' do
   # use_frameworks!
 
   # Pods for iTunesBackupExtractor
-pod 'FMDB', '~> 2.6.2'
+pod 'FMDB', '~> 2.7.2'
 end

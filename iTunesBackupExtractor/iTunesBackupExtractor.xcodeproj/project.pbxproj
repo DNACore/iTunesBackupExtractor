@@ -7,90 +7,90 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2B72C8AFD2A1053A3389FBFC /* libPods-iTunesBackupExtractor.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E89BE8ADDC3F4F1353EE197 /* libPods-iTunesBackupExtractor.a */; };
-		D6C73A2A1E94B75400C0ACFF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D6C73A291E94B75400C0ACFF /* AppDelegate.m */; };
-		D6C73A2D1E94B75400C0ACFF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D6C73A2C1E94B75400C0ACFF /* main.m */; };
-		D6C73A2F1E94B75400C0ACFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6C73A2E1E94B75400C0ACFF /* Assets.xcassets */; };
-		D6C73A321E94B75400C0ACFF /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D6C73A301E94B75400C0ACFF /* MainMenu.xib */; };
+		D6A82DC11F501C8E0010DF08 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D6A82DC01F501C8E0010DF08 /* AppDelegate.m */; };
+		D6A82DC41F501C8E0010DF08 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D6A82DC31F501C8E0010DF08 /* main.m */; };
+		D6A82DC91F501C8E0010DF08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6A82DC81F501C8E0010DF08 /* Assets.xcassets */; };
+		D6A82DD41F501D1F0010DF08 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D6A82DD31F501D1F0010DF08 /* MainMenu.xib */; };
+		F402827560ECDF4C0AB2A5EC /* libPods-iTunesBackupExtractor.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 804B7DB7ADFDB6DE01ACFE72 /* libPods-iTunesBackupExtractor.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1CE5D71C9ECF3DC73C84B3ED /* Pods-iTunesBackupExtractor.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iTunesBackupExtractor.debug.xcconfig"; path = "../Pods/Target Support Files/Pods-iTunesBackupExtractor/Pods-iTunesBackupExtractor.debug.xcconfig"; sourceTree = "<group>"; };
-		3E89BE8ADDC3F4F1353EE197 /* libPods-iTunesBackupExtractor.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-iTunesBackupExtractor.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D6C73A251E94B75400C0ACFF /* iTunesBackupExtractor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iTunesBackupExtractor.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D6C73A281E94B75400C0ACFF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		D6C73A291E94B75400C0ACFF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D6C73A2C1E94B75400C0ACFF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D6C73A2E1E94B75400C0ACFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D6C73A311E94B75400C0ACFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
-		D6C73A331E94B75400C0ACFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E717E5F40F7C6450CF279587 /* Pods-iTunesBackupExtractor.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iTunesBackupExtractor.release.xcconfig"; path = "../Pods/Target Support Files/Pods-iTunesBackupExtractor/Pods-iTunesBackupExtractor.release.xcconfig"; sourceTree = "<group>"; };
+		7C5E4DCD6DFCB8E81530128B /* Pods-iTunesBackupExtractor.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iTunesBackupExtractor.release.xcconfig"; path = "../Pods/Target Support Files/Pods-iTunesBackupExtractor/Pods-iTunesBackupExtractor.release.xcconfig"; sourceTree = "<group>"; };
+		804B7DB7ADFDB6DE01ACFE72 /* libPods-iTunesBackupExtractor.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-iTunesBackupExtractor.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9EE305F789A0839C8F3BC6BC /* Pods-iTunesBackupExtractor.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iTunesBackupExtractor.debug.xcconfig"; path = "../Pods/Target Support Files/Pods-iTunesBackupExtractor/Pods-iTunesBackupExtractor.debug.xcconfig"; sourceTree = "<group>"; };
+		D6A82DBC1F501C8E0010DF08 /* iTunesBackupExtractor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iTunesBackupExtractor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6A82DBF1F501C8E0010DF08 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		D6A82DC01F501C8E0010DF08 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		D6A82DC31F501C8E0010DF08 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D6A82DC81F501C8E0010DF08 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D6A82DCD1F501C8E0010DF08 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6A82DD31F501D1F0010DF08 /* MainMenu.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainMenu.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D6C73A221E94B75400C0ACFF /* Frameworks */ = {
+		D6A82DB91F501C8E0010DF08 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2B72C8AFD2A1053A3389FBFC /* libPods-iTunesBackupExtractor.a in Frameworks */,
+				F402827560ECDF4C0AB2A5EC /* libPods-iTunesBackupExtractor.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		10F08AE89C9983D0CB117EEF /* Frameworks */ = {
+		1026011BA756B28CA9C25588 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				3E89BE8ADDC3F4F1353EE197 /* libPods-iTunesBackupExtractor.a */,
+				804B7DB7ADFDB6DE01ACFE72 /* libPods-iTunesBackupExtractor.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		65BDC12DC6EE617BEC965D38 /* Pods */ = {
+		7D12F08F6AC845311490757D /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				1CE5D71C9ECF3DC73C84B3ED /* Pods-iTunesBackupExtractor.debug.xcconfig */,
-				E717E5F40F7C6450CF279587 /* Pods-iTunesBackupExtractor.release.xcconfig */,
+				9EE305F789A0839C8F3BC6BC /* Pods-iTunesBackupExtractor.debug.xcconfig */,
+				7C5E4DCD6DFCB8E81530128B /* Pods-iTunesBackupExtractor.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		D6C73A1C1E94B75400C0ACFF = {
+		D6A82DB31F501C8E0010DF08 = {
 			isa = PBXGroup;
 			children = (
-				D6C73A271E94B75400C0ACFF /* iTunesBackupExtractor */,
-				D6C73A261E94B75400C0ACFF /* Products */,
-				65BDC12DC6EE617BEC965D38 /* Pods */,
-				10F08AE89C9983D0CB117EEF /* Frameworks */,
+				D6A82DBE1F501C8E0010DF08 /* iTunesBackupExtractor */,
+				D6A82DBD1F501C8E0010DF08 /* Products */,
+				7D12F08F6AC845311490757D /* Pods */,
+				1026011BA756B28CA9C25588 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		D6C73A261E94B75400C0ACFF /* Products */ = {
+		D6A82DBD1F501C8E0010DF08 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D6C73A251E94B75400C0ACFF /* iTunesBackupExtractor.app */,
+				D6A82DBC1F501C8E0010DF08 /* iTunesBackupExtractor.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D6C73A271E94B75400C0ACFF /* iTunesBackupExtractor */ = {
+		D6A82DBE1F501C8E0010DF08 /* iTunesBackupExtractor */ = {
 			isa = PBXGroup;
 			children = (
-				D6C73A281E94B75400C0ACFF /* AppDelegate.h */,
-				D6C73A291E94B75400C0ACFF /* AppDelegate.m */,
-				D6C73A2E1E94B75400C0ACFF /* Assets.xcassets */,
-				D6C73A301E94B75400C0ACFF /* MainMenu.xib */,
-				D6C73A331E94B75400C0ACFF /* Info.plist */,
-				D6C73A2B1E94B75400C0ACFF /* Supporting Files */,
+				D6A82DBF1F501C8E0010DF08 /* AppDelegate.h */,
+				D6A82DC01F501C8E0010DF08 /* AppDelegate.m */,
+				D6A82DC81F501C8E0010DF08 /* Assets.xcassets */,
+				D6A82DCD1F501C8E0010DF08 /* Info.plist */,
+				D6A82DC21F501C8E0010DF08 /* Supporting Files */,
+				D6A82DD31F501D1F0010DF08 /* MainMenu.xib */,
 			);
 			path = iTunesBackupExtractor;
 			sourceTree = "<group>";
 		};
-		D6C73A2B1E94B75400C0ACFF /* Supporting Files */ = {
+		D6A82DC21F501C8E0010DF08 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D6C73A2C1E94B75400C0ACFF /* main.m */,
+				D6A82DC31F501C8E0010DF08 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -98,16 +98,16 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D6C73A241E94B75400C0ACFF /* iTunesBackupExtractor */ = {
+		D6A82DBB1F501C8E0010DF08 /* iTunesBackupExtractor */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D6C73A361E94B75400C0ACFF /* Build configuration list for PBXNativeTarget "iTunesBackupExtractor" */;
+			buildConfigurationList = D6A82DD01F501C8E0010DF08 /* Build configuration list for PBXNativeTarget "iTunesBackupExtractor" */;
 			buildPhases = (
-				C635B2DC9F9DC6DD7463711B /* [CP] Check Pods Manifest.lock */,
-				D6C73A211E94B75400C0ACFF /* Sources */,
-				D6C73A221E94B75400C0ACFF /* Frameworks */,
-				D6C73A231E94B75400C0ACFF /* Resources */,
-				FC245992EC455F244F565900 /* [CP] Embed Pods Frameworks */,
-				17A83ABDE26B2353D4CDBD81 /* [CP] Copy Pods Resources */,
+				05842CAC59FB5844901FBD54 /* [CP] Check Pods Manifest.lock */,
+				D6A82DB81F501C8E0010DF08 /* Sources */,
+				D6A82DB91F501C8E0010DF08 /* Frameworks */,
+				D6A82DBA1F501C8E0010DF08 /* Resources */,
+				402EB3C45B43CD198F757EDC /* [CP] Embed Pods Frameworks */,
+				873D44BA4965AD8E1F9A43C2 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -115,25 +115,25 @@
 			);
 			name = iTunesBackupExtractor;
 			productName = iTunesBackupExtractor;
-			productReference = D6C73A251E94B75400C0ACFF /* iTunesBackupExtractor.app */;
+			productReference = D6A82DBC1F501C8E0010DF08 /* iTunesBackupExtractor.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D6C73A1D1E94B75400C0ACFF /* Project object */ = {
+		D6A82DB41F501C8E0010DF08 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0820;
+				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = Encoder;
 				TargetAttributes = {
-					D6C73A241E94B75400C0ACFF = {
-						CreatedOnToolsVersion = 8.2.1;
+					D6A82DBB1F501C8E0010DF08 = {
+						CreatedOnToolsVersion = 8.3.3;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = D6C73A201E94B75400C0ACFF /* Build configuration list for PBXProject "iTunesBackupExtractor" */;
+			buildConfigurationList = D6A82DB71F501C8E0010DF08 /* Build configuration list for PBXProject "iTunesBackupExtractor" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -141,45 +141,30 @@
 				en,
 				Base,
 			);
-			mainGroup = D6C73A1C1E94B75400C0ACFF;
-			productRefGroup = D6C73A261E94B75400C0ACFF /* Products */;
+			mainGroup = D6A82DB31F501C8E0010DF08;
+			productRefGroup = D6A82DBD1F501C8E0010DF08 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D6C73A241E94B75400C0ACFF /* iTunesBackupExtractor */,
+				D6A82DBB1F501C8E0010DF08 /* iTunesBackupExtractor */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D6C73A231E94B75400C0ACFF /* Resources */ = {
+		D6A82DBA1F501C8E0010DF08 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D6C73A2F1E94B75400C0ACFF /* Assets.xcassets in Resources */,
-				D6C73A321E94B75400C0ACFF /* MainMenu.xib in Resources */,
+				D6A82DC91F501C8E0010DF08 /* Assets.xcassets in Resources */,
+				D6A82DD41F501D1F0010DF08 /* MainMenu.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		17A83ABDE26B2353D4CDBD81 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/../Pods/Target Support Files/Pods-iTunesBackupExtractor/Pods-iTunesBackupExtractor-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		C635B2DC9F9DC6DD7463711B /* [CP] Check Pods Manifest.lock */ = {
+		05842CAC59FB5844901FBD54 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -191,10 +176,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		FC245992EC455F244F565900 /* [CP] Embed Pods Frameworks */ = {
+		402EB3C45B43CD198F757EDC /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -209,37 +194,42 @@
 			shellScript = "\"${SRCROOT}/../Pods/Target Support Files/Pods-iTunesBackupExtractor/Pods-iTunesBackupExtractor-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
+		873D44BA4965AD8E1F9A43C2 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/../Pods/Target Support Files/Pods-iTunesBackupExtractor/Pods-iTunesBackupExtractor-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D6C73A211E94B75400C0ACFF /* Sources */ = {
+		D6A82DB81F501C8E0010DF08 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D6C73A2D1E94B75400C0ACFF /* main.m in Sources */,
-				D6C73A2A1E94B75400C0ACFF /* AppDelegate.m in Sources */,
+				D6A82DC41F501C8E0010DF08 /* main.m in Sources */,
+				D6A82DC11F501C8E0010DF08 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXVariantGroup section */
-		D6C73A301E94B75400C0ACFF /* MainMenu.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D6C73A311E94B75400C0ACFF /* Base */,
-			);
-			name = MainMenu.xib;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
-
 /* Begin XCBuildConfiguration section */
-		D6C73A341E94B75400C0ACFF /* Debug */ = {
+		D6A82DCE1F501C8E0010DF08 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -275,18 +265,19 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
-		D6C73A351E94B75400C0ACFF /* Release */ = {
+		D6A82DCF1F501C8E0010DF08 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -316,15 +307,15 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
 			};
 			name = Release;
 		};
-		D6C73A371E94B75400C0ACFF /* Debug */ = {
+		D6A82DD11F501C8E0010DF08 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1CE5D71C9ECF3DC73C84B3ED /* Pods-iTunesBackupExtractor.debug.xcconfig */;
+			baseConfigurationReference = 9EE305F789A0839C8F3BC6BC /* Pods-iTunesBackupExtractor.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -335,9 +326,9 @@
 			};
 			name = Debug;
 		};
-		D6C73A381E94B75400C0ACFF /* Release */ = {
+		D6A82DD21F501C8E0010DF08 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E717E5F40F7C6450CF279587 /* Pods-iTunesBackupExtractor.release.xcconfig */;
+			baseConfigurationReference = 7C5E4DCD6DFCB8E81530128B /* Pods-iTunesBackupExtractor.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -351,24 +342,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D6C73A201E94B75400C0ACFF /* Build configuration list for PBXProject "iTunesBackupExtractor" */ = {
+		D6A82DB71F501C8E0010DF08 /* Build configuration list for PBXProject "iTunesBackupExtractor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D6C73A341E94B75400C0ACFF /* Debug */,
-				D6C73A351E94B75400C0ACFF /* Release */,
+				D6A82DCE1F501C8E0010DF08 /* Debug */,
+				D6A82DCF1F501C8E0010DF08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D6C73A361E94B75400C0ACFF /* Build configuration list for PBXNativeTarget "iTunesBackupExtractor" */ = {
+		D6A82DD01F501C8E0010DF08 /* Build configuration list for PBXNativeTarget "iTunesBackupExtractor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D6C73A371E94B75400C0ACFF /* Debug */,
-				D6C73A381E94B75400C0ACFF /* Release */,
+				D6A82DD11F501C8E0010DF08 /* Debug */,
+				D6A82DD21F501C8E0010DF08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D6C73A1D1E94B75400C0ACFF /* Project object */;
+	rootObject = D6A82DB41F501C8E0010DF08 /* Project object */;
 }
